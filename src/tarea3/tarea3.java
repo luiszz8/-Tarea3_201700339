@@ -20,7 +20,7 @@ public class tarea3 {
         int opcion;
         do{
             Scanner sn=new Scanner(System.in);
-            
+            //menu principal
             System.out.println("[IPC1]Tarea3_210700339");
             System.out.println("");
             System.out.println("1.Usuarios");
